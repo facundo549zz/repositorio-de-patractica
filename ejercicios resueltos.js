@@ -1,4 +1,4 @@
-/ DECLARANDO VARIABLE//
+// DECLARANDO VARIABLE//
 
 var edad;
 var peso;
